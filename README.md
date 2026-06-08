@@ -115,9 +115,19 @@ images/android-real-device.jpg
 
 提交照片后，下面应显示本组真机运行效果：
 
-![Android 真机运行照片](images/android-real-device.jpg)
+### 真机运行照片 1
 
-如果这里暂时显示不出图片，说明还没有提交 `images/android-real-device.jpg`，或 README 路径需要检查。
+![Android 真机运行照片 1](images/android-real-device-1.jpg)
+
+### 真机运行照片 2
+
+![Android 真机运行照片 2](images/android-real-device-2.jpg)
+
+### 真机运行照片 3
+
+![Android 真机运行照片 3](images/android-real-device-3.jpg)
+
+如果这里暂时显示不出图片，说明还没有提交照片文件，或 README 路径需要检查。
 
 ## 证据说明
 
@@ -127,14 +137,14 @@ images/android-real-device.jpg
 | --- | --- | --- |
 | GitHub 协作证据 | 组长有原始仓库，4名组员有 Fork、分支、commit、Pull Request 记录 | 组长创建仓库，组员 A/B/C/D 各自通过 Fork → 分支 → PR 完成协作 |
 | Android 真机运行证据 | 至少一台真实 Android 手机成功运行小组 Flutter 应用 | 主运行电脑已连接主 Android 手机，`adb devices` 显示 `device`，`flutter run` 成功启动应用 |
-| README 照片证据 | 第二部手机拍摄手持真机运行照片，并在 GitHub README 中显示 | 照片已保存至 `images/android-real-device.jpg`，已通过 Markdown 语法加入本 README |
+| README 照片证据 | 第二部手机拍摄手持真机运行照片，并在 GitHub README 中显示 | 3张照片已保存至 `images/` 目录，已通过 Markdown 语法加入本 README |
 
 ### 拍照检查清单
 
-- [ ] 照片是真实 Android 手机（非模拟器、非 Web 截图）
-- [ ] 手机屏幕显示本小组 Flutter 应用
-- [ ] 照片由第二部手机拍摄（非手机自身截屏）
-- [ ] 照片中拍到手持手机的手
-- [ ] 照片中没有明显隐私信息
-- [ ] 照片已发到小组群
-- [ ] 照片已加入 GitHub README 并在首页正常显示
+- [x] 照片是真实 Android 手机（非模拟器、非 Web 截图）
+- [x] 手机屏幕显示本小组 Flutter 应用
+- [x] 照片由第二部手机拍摄（非手机自身截屏）
+- [x] 照片中拍到手持手机的手
+- [x] 照片中没有明显隐私信息
+- [x] 照片已发到小组群
+- [x] 照片已加入 GitHub README 并在首页正常显示
